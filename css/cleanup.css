@@ -20,3 +20,15 @@ display:none;
 #wall .tag-7{
 display:none;
 }
+
+#wall #tag-2 {
+display:none;
+}
+
+div#wall #tag-3.slick {
+display:none;
+}
+
+div#wall .parent #tag-5.slick  {
+display:none;
+}
